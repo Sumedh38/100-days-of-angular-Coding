@@ -1,0 +1,21 @@
+.example-card {
+  max-width: 400px;
+  border: 5.5px solid #6b1c29;
+  border-radius: 20px;
+  position: relative;
+  align-items: center;
+  background-color: #a6762f;
+  left: 35%;
+}
+
+.example-header-image {
+  background-image: url("https://i.imgur.com/UTgmvG6.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+mat-card-actions button {
+  border: 1px solid black;
+  background-color: #58121ddb;
+  color: white;
+  border-radius: 10px;
+}
